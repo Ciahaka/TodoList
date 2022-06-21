@@ -6,3 +6,21 @@
 .App > div {
   margin-right: 50px;
 }
+.isDone {
+  text-decoration: line-through;
+  color: #555;
+}
+.task {
+  font-weight: bold;
+}
+
+.active {
+  background-color: darksalmon;
+  color: white;
+  font-weight: bold;
+}
+
+.error {
+  border: 2px solid red;
+  outline: none;
+}
