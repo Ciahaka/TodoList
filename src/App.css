@@ -1,8 +1,28 @@
-.App {
-  padding: 30px;
-  display: flex;
+
+
+/*.App {*/
+/*  padding: 30px;*/
+/*  display: flex;*/
+/*}*/
+
+/*.App > div {*/
+/*  margin-right: 50px;*/
+/*}*/
+.isDone {
+  text-decoration: line-through;
+  color: #555;
+}
+.task {
+  font-weight: bold;
 }
 
-.App > div {
-  margin-right: 50px;
-}
+/*.active {*/
+/*  background-color: darksalmon;*/
+/*  color: white;*/
+/*  font-weight: bold;*/
+/*}*/
+
+/*.error {*/
+/*  border: 2px solid red;*/
+/*  outline: none;*/
+/*}*/
