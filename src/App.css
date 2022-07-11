@@ -1,28 +1,25 @@
-
-
-/*.App {*/
-/*  padding: 30px;*/
-/*  display: flex;*/
-/*}*/
-
-/*.App > div {*/
-/*  margin-right: 50px;*/
-/*}*/
-.isDone {
-  text-decoration: line-through;
-  color: #555;
+.App {
+  padding: 30px;
+  display: flex;
 }
-.task {
+
+.App > div {
+  margin-right: 50px;
+}
+.isDone{
+  text-decoration: line-through;
+  color: darkred;
   font-weight: bold;
 }
+.active{
+  background-color: #2be104;
+  color: white;
+  font-weight: bold;
+  border: 2px solid #989696;
+  border-radius: 2px;
+}
+.error{
+  border: 2px solid darkred;
+  outline: none;
+}
 
-/*.active {*/
-/*  background-color: darksalmon;*/
-/*  color: white;*/
-/*  font-weight: bold;*/
-/*}*/
-
-/*.error {*/
-/*  border: 2px solid red;*/
-/*  outline: none;*/
-/*}*/
