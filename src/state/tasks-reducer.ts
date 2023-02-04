@@ -22,9 +22,9 @@ export const tasksReducer = (state: TasksStateType, action: ActionsType) => {
     }
 }
 
-export const RemoveTodolistAC = (todolistId: string): First_ActionType => {
+export const FirstAC = (todolistId: string): First_ActionType => {
     return { type: ''}
 }
-export const AddTodolistAC = (title: string): Second_ActionType => {
+export const SecondAC = (title: string): Second_ActionType => {
     return { type: ''}
 }
