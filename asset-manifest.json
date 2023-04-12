@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/it-incubator-todolist-ts/static/css/main.e6c13ad2.css",
+    "main.js": "/it-incubator-todolist-ts/static/js/main.5c85b7a4.js",
+    "index.html": "/it-incubator-todolist-ts/index.html",
+    "main.e6c13ad2.css.map": "/it-incubator-todolist-ts/static/css/main.e6c13ad2.css.map",
+    "main.5c85b7a4.js.map": "/it-incubator-todolist-ts/static/js/main.5c85b7a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5c85b7a4.js"
+  ]
+}
